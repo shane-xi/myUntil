@@ -1,0 +1,7 @@
+﻿#忽略.DS_Store目录下的所有文件
+.DS_Store
+#忽略.idea文件
+.idea
+#忽略node_modules目录下的所有文件
+node_modules
+npm-debug.log
